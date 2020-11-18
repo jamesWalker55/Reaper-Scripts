@@ -1,5 +1,4 @@
 # Reaper-Scripts
-I am not a programmer. Use these scripts at your own risk.
 
 ### Project - Audio Files Folder Rename.lua
 
